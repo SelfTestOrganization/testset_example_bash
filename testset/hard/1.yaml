@@ -1,0 +1,10 @@
+---
+type: abc
+timeout: 60
+question: I have mistakenly started some long-running process on a foregraund and I want to move it to background. What keyboard shortcut can I use?
+answers:
+  a: <code>Ctrl + X</code>
+  b: <code>Ctrl + Y</code>
+  c: <code>Ctrl + Z</code>
+correct: c
+...

@@ -1,0 +1,10 @@
+---
+type: abc
+timeout: 30
+question: What does <code>aaa=$(( 1 + 2 ))</code> do?
+answers:
+  a: Saves number 3 to variable <code>aaa</code>
+  b: Causes syntax error due to multiple reasons
+  c: Fails complaining that command <code>1</code> does not exist
+correct: a
+...

@@ -1,0 +1,14 @@
+---
+type: abc
+timeout: 50
+question: |
+  What happens when you run code like this:
+  <pre>
+  aaa="$( date )"
+  </pre>
+answers:
+  a: This causes a syntax error as there have to be spaces around <code>=</code> (equals sign)
+  b: Output of command <code>date</code> is saved into the variable <code>aaa</code>
+  c: Content between <code>"</code> (quotation marks) characters is saved into variable <code>aaa</code>
+correct: b
+...

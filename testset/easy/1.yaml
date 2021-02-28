@@ -1,0 +1,13 @@
+---
+type: abc
+timeout: 30
+question: What does <em>bash</em> stands for?
+answers:
+  a: Bourne Again Shell
+  b: Basic Access Shell
+  c: |
+    it is just randomly chosen
+    sequence of letters
+  d: Bond Again Shell
+correct: a
+...
