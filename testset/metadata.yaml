@@ -1,7 +1,4 @@
 ---
 name: Example test set about Bash
 version: 1
-questions_to_ask:
-  easy: 2
-  hard: 1
 ...
